@@ -1,5 +1,3 @@
-# Multi-Model Test
+# Deprecated
 
-## Libraries
-
-* `dao` -- [https://github.com/ahoward/dao](https://github.com/ahoward/dao)
+This repo has moved: [https://github.com/cookrn/dao_conducer_example](https://github.com/cookrn/dao_conducer_example)
